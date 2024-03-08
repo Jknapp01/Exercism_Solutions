@@ -1,5 +1,5 @@
 # Joel's Exercism Solutions
-Version control repository for my solutions Exercism.org programming problems.
+Version control repository for my solutions to Exercism.org programming problems.
 
 Why Exercism.org ?
 
